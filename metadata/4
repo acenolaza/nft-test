@@ -11,7 +11,7 @@
     {
       "display_type": "boost_percentage",
       "trait_type": "Amount paid",
-      "value": 25
+      "value": 100
     }
   ]
 }
