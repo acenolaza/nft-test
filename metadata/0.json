@@ -1,0 +1,21 @@
+{
+  "description": "Rewards from OEV for dapp #0",
+  "external_url": "https://acenolaza.github.io/nft-test/metadata/0.json",
+  "image": "https://acenolaza.github.io/nft-test/image/nft.jpeg",
+  "name": "Rewards dapp #0",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "First in collection"
+    },
+    {
+      "trait_type": "Amount in USD",
+      "value": 1000
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Amount paid",
+      "value": 10
+    }
+  ]
+}
