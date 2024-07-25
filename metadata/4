@@ -1,17 +1,17 @@
 {
-  "description": "Rewards from OEV for dapp #1",
-  "external_url": "https://acenolaza.github.io/nft-test/metadata/1.json",
+  "description": "Rewards from OEV for dapp #4",
+  "external_url": "https://acenolaza.github.io/nft-test/metadata/4.json",
   "image": "https://acenolaza.github.io/nft-test/image/nft.jpeg",
-  "name": "Rewards dapp #1",
+  "name": "Rewards dapp #4",
   "attributes": [
     {
       "trait_type": "Amount in USD",
-      "value": 1000
+      "value": 5000
     },
     {
       "display_type": "boost_percentage",
       "trait_type": "Amount paid",
-      "value": 0
+      "value": 25
     }
   ]
 }
